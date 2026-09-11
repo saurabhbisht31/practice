@@ -32,9 +32,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/saurabhbisht31/practice/tree/master/0063-unique-paths-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/saurabhbisht31/practice/tree/master/0063-unique-paths-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
