@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/saurabhbisht31/practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saurabhbisht31/practice/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0115-distinct-subsequences) |
+| [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhbisht31/practice/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saurabhbisht31/practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/saurabhbisht31/practice/tree/master/0063-unique-paths-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
