@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/saurabhbisht31/practice/tree/master/0063-unique-paths-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
+| [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saurabhbisht31/practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/saurabhbisht31/practice/tree/master/0063-unique-paths-ii) |
+| [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Hash Table
 |  |
