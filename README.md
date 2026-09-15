@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saurabhbisht31/practice/tree/master/0062-unique-paths) |
+| [0441-arranging-coins](https://github.com/saurabhbisht31/practice/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/saurabhbisht31/practice/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/saurabhbisht31/practice/tree/master/3870-count-commas-in-range) |
 ## Combinatorics
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/saurabhbisht31/practice/tree/master/0441-arranging-coins) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saurabhbisht31/practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
