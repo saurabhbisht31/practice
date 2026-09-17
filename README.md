@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/saurabhbisht31/practice/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/saurabhbisht31/practice/tree/master/0063-unique-paths-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saurabhbisht31/practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saurabhbisht31/practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/saurabhbisht31/practice/tree/master/0047-permutations-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saurabhbisht31/practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saurabhbisht31/practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saurabhbisht31/practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saurabhbisht31/practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
