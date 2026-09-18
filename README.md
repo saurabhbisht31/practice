@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0115-distinct-subsequences) |
+| [0443-string-compression](https://github.com/saurabhbisht31/practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhbisht31/practice/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saurabhbisht31/practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/saurabhbisht31/practice/tree/master/0443-string-compression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saurabhbisht31/practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
