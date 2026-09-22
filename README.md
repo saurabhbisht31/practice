@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0115-distinct-subsequences) |
 | [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/saurabhbisht31/practice/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhbisht31/practice/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saurabhbisht31/practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saurabhbisht31/practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/saurabhbisht31/practice/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/saurabhbisht31/practice/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 | [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/saurabhbisht31/practice/tree/master/0047-permutations-ii) |
+| [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/saurabhbisht31/practice/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 ## Memoization
 |  |
 | ------- |
@@ -198,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/saurabhbisht31/practice/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
