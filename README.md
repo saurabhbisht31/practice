@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/saurabhbisht31/practice/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/saurabhbisht31/practice/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 ## Memoization
