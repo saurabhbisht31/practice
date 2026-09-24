@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/saurabhbisht31/practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/saurabhbisht31/practice/tree/master/0474-ones-and-zeroes) |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhbisht31/practice/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saurabhbisht31/practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/saurabhbisht31/practice/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/saurabhbisht31/practice/tree/master/0474-ones-and-zeroes) |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhbisht31/practice/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saurabhbisht31/practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/saurabhbisht31/practice/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/saurabhbisht31/practice/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/saurabhbisht31/practice/tree/master/0474-ones-and-zeroes) |
 | [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -103,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/saurabhbisht31/practice/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saurabhbisht31/practice/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/saurabhbisht31/practice/tree/master/0474-ones-and-zeroes) |
 ## Binary Search
 |  |
 | ------- |
