@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/saurabhbisht31/practice/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saurabhbisht31/practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saurabhbisht31/practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saurabhbisht31/practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/saurabhbisht31/practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurabhbisht31/practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saurabhbisht31/practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhbisht31/practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saurabhbisht31/practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurabhbisht31/practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saurabhbisht31/practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhbisht31/practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
