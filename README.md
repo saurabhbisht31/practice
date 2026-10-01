@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/saurabhbisht31/practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
@@ -223,9 +224,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhbisht31/practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhbisht31/practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
