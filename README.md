@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/saurabhbisht31/practice/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/saurabhbisht31/practice/tree/master/0474-ones-and-zeroes) |
+| [0495-teemo-attacking](https://github.com/saurabhbisht31/practice/tree/master/0495-teemo-attacking) |
 | [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/saurabhbisht31/practice/tree/master/0495-teemo-attacking) |
 | [3498-reverse-degree-of-a-string](https://github.com/saurabhbisht31/practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
