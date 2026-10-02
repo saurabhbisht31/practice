@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saurabhbisht31/practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saurabhbisht31/practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/saurabhbisht31/practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/saurabhbisht31/practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
