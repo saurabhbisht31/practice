@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/saurabhbisht31/practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/saurabhbisht31/practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saurabhbisht31/practice/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0115-distinct-subsequences) |
@@ -231,11 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhbisht31/practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhbisht31/practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
