@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/saurabhbisht31/practice/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/saurabhbisht31/practice/tree/master/0475-heaters) |
 | [0495-teemo-attacking](https://github.com/saurabhbisht31/practice/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/saurabhbisht31/practice/tree/master/0506-relative-ranks) |
 | [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saurabhbisht31/practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saurabhbisht31/practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/saurabhbisht31/practice/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/saurabhbisht31/practice/tree/master/0506-relative-ranks) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saurabhbisht31/practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/saurabhbisht31/practice/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
