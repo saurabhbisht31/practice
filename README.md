@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/saurabhbisht31/practice/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0301-remove-invalid-parentheses) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/saurabhbisht31/practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/saurabhbisht31/practice/tree/master/0443-string-compression) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/saurabhbisht31/practice/tree/master/0242-valid-anagram) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/saurabhbisht31/practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabhbisht31/practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabhbisht31/practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/saurabhbisht31/practice/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/saurabhbisht31/practice/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabhbisht31/practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saurabhbisht31/practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
