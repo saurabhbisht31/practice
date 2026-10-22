@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/saurabhbisht31/practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurabhbisht31/practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3886-sum-of-sortable-integers](https://github.com/saurabhbisht31/practice/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/saurabhbisht31/practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
