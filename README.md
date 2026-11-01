@@ -176,16 +176,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/saurabhbisht31/practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabhbisht31/practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saurabhbisht31/practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/saurabhbisht31/practice/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/saurabhbisht31/practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saurabhbisht31/practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/saurabhbisht31/practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabhbisht31/practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saurabhbisht31/practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/saurabhbisht31/practice/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/saurabhbisht31/practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/saurabhbisht31/practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabhbisht31/practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
