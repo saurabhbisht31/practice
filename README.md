@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/saurabhbisht31/practice/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/saurabhbisht31/practice/tree/master/0475-heaters) |
+| [0491-non-decreasing-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0491-non-decreasing-subsequences) |
 | [0495-teemo-attacking](https://github.com/saurabhbisht31/practice/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/saurabhbisht31/practice/tree/master/0506-relative-ranks) |
 | [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabhbisht31/practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/saurabhbisht31/practice/tree/master/0457-circular-array-loop) |
+| [0491-non-decreasing-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0491-non-decreasing-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurabhbisht31/practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/saurabhbisht31/practice/tree/master/0047-permutations-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/saurabhbisht31/practice/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0491-non-decreasing-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/saurabhbisht31/practice/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/saurabhbisht31/practice/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/saurabhbisht31/practice/tree/master/0476-number-complement) |
+| [0491-non-decreasing-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0491-non-decreasing-subsequences) |
 ## Memoization
 |  |
 | ------- |
