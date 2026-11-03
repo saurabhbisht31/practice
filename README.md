@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saurabhbisht31/practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3524-find-x-value-of-array-i](https://github.com/saurabhbisht31/practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurabhbisht31/practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saurabhbisht31/practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/saurabhbisht31/practice/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/saurabhbisht31/practice/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabhbisht31/practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/saurabhbisht31/practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurabhbisht31/practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saurabhbisht31/practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/saurabhbisht31/practice/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/saurabhbisht31/practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Matrix
