@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/saurabhbisht31/practice/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/saurabhbisht31/practice/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/saurabhbisht31/practice/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/saurabhbisht31/practice/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabhbisht31/practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saurabhbisht31/practice/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/saurabhbisht31/practice/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0491-non-decreasing-subsequences) |
+| [0525-contiguous-array](https://github.com/saurabhbisht31/practice/tree/master/0525-contiguous-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurabhbisht31/practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/saurabhbisht31/practice/tree/master/0525-contiguous-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saurabhbisht31/practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurabhbisht31/practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
