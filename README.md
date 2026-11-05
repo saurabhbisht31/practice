@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurabhbisht31/practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhbisht31/practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/saurabhbisht31/practice/tree/master/1021-remove-outermost-parentheses) |
+| [1169-invalid-transactions](https://github.com/saurabhbisht31/practice/tree/master/1169-invalid-transactions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhbisht31/practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saurabhbisht31/practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/saurabhbisht31/practice/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/saurabhbisht31/practice/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/saurabhbisht31/practice/tree/master/0835-image-overlap) |
+| [1169-invalid-transactions](https://github.com/saurabhbisht31/practice/tree/master/1169-invalid-transactions) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saurabhbisht31/practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabhbisht31/practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/saurabhbisht31/practice/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/saurabhbisht31/practice/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/saurabhbisht31/practice/tree/master/0525-contiguous-array) |
+| [1169-invalid-transactions](https://github.com/saurabhbisht31/practice/tree/master/1169-invalid-transactions) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhbisht31/practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurabhbisht31/practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saurabhbisht31/practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/saurabhbisht31/practice/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/saurabhbisht31/practice/tree/master/0506-relative-ranks) |
+| [1169-invalid-transactions](https://github.com/saurabhbisht31/practice/tree/master/1169-invalid-transactions) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saurabhbisht31/practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saurabhbisht31/practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saurabhbisht31/practice/tree/master/2333-minimum-sum-of-squared-difference) |
